@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Pre requisites](pre-requisites.md)
+* [Theoretical background](theoretical-background.md)
+* [Developing the application](developing-the-application/README.md)
+  * [Importing all necessary packages](developing-the-application/importing-all-necessary-packages.md)
+  * [Data Cleaning](developing-the-application/data-cleaning.md)
+  * [Feature Extraction](developing-the-application/feature-extraction.md)
+  * [Loading Dataset](developing-the-application/loading-dataset.md)
+  * [Tokenizing the vocabulary](developing-the-application/tokenizing-the-vocabulary.md)
+  * [Creating Data Generator](developing-the-application/creating-data-generator.md)
+  * [Model Definition](developing-the-application/model-definition.md)
+  * [Model Training](developing-the-application/model-training.md)
+  * [Model Testing](developing-the-application/model-testing.md)
+* [Summary](summary.md)
